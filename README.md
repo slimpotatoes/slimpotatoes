@@ -1,6 +1,6 @@
 👋 Hi, I’m Alexandre Pofelski @slimpotatoes
 
-I do research on electron microscopes :microscope: and I'm a casual python scripter. Do not hesitate to poke me :stuck_out_tongue_winking_eye: !!
+I do research in electron microscopy :microscope: and I'm a casual python scripter. Do not hesitate to poke me :stuck_out_tongue_winking_eye: !!
 
 
 <!---
